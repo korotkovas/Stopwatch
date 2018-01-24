@@ -1,0 +1,21 @@
+nav {
+	text-align: center;
+}
+
+button {
+	font-size: 20px;
+	border-radius: 10px;
+	background-color: #ff8080;
+	border: solid black 1px;
+}
+
+div {
+	display: inline;
+	font-size: 40px;
+
+}
+
+.container {
+	display: list-item;
+	text-align: center;
+}
